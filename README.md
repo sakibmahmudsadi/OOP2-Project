@@ -13,11 +13,33 @@ The **Online Game Store Management System (OGSMS)** is a comprehensive C# Window
 - **Guest Access**: Allows potential customers to explore the game store and catalog without requiring an initial account.
 
 ## 🖼️ Screenshots
-| Signup | Login | Admin Dashboard | Manager Dashboard |
-| :---: | :---: | :---: | :---: |
-| ![Signup](Image/ogmssingup3.png) | ![Login](Image/ogmslogin2.png) | ![Admin](Image/ogmsadmindashb4.png) | ![Manager](Image/ogmsmanagerdashb5.png) |
-| **Guest Dashboard** | **User Dashboard** | **Game Library** | **Game Store** |
-| ![Guest](Image/ogmsgueslogin6.png) | ![User](Image/ogmsuserdashboard7.png) | ![Library](Image/ogmsgamelibrary8.png) | ![Store](Image/ogmsp9.png) |
+
+### 🖥️ Main Interfaces (Wide View)
+<div align="center">
+  <img src="Image/ogmswelcome1.png" width="90%" alt="Welcome Screen"/><br/>
+  <i>1. Welcome Screen</i><br/><br/>
+  
+  <img src="Image/ogmslogin2.png" width="45%" alt="Login"/> <img src="Image/ogmssingup3.png" width="45%" alt="Signup"/><br/>
+  <i>2. Login & 3. Signup</i><br/><br/>
+
+  <img src="Image/ogmsadmindashb4.png" width="45%" alt="Admin Dashboard"/> <img src="Image/ogmsmanagerdashb5.png" width="45%" alt="Manager Dashboard"/><br/>
+  <i>4. Admin Dashboard & 5. Manager Dashboard</i><br/><br/>
+
+  <img src="Image/ogmsgueslogin6.png" width="45%" alt="Guest Dashboard"/> <img src="Image/ogmsuserdashboard7.png" width="45%" alt="User Dashboard"/><br/>
+  <i>6. Guest Dashboard & 7. User Dashboard</i><br/><br/>
+
+  <img src="Image/ogmsgamelibrary8.png" width="90%" alt="Game Library"/><br/>
+  <i>8. Game Library</i>
+</div>
+
+### 🎮 Game Store & Catalog (Vertical Scale)
+<div align="center">
+  <img src="Image/ogmsp9.png" width="22%" alt="Store 1"/> 
+  <img src="Image/ogmsp10.png" width="22%" alt="Store 2"/> 
+  <img src="Image/ogmsp11.png" width="22%" alt="Store 3"/> 
+  <img src="Image/ogmsp12.png" width="22%" alt="Store 4"/><br/>
+  <i>9, 10, 11, 12. Game Store & Purchasing Views</i>
+</div>
 
 ## 📜 Credits & License
 This project was developed as part of the **OOP2 C# Project**.
