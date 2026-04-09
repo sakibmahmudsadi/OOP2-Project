@@ -14,13 +14,13 @@ The **Online Game Store Management System (OGSMS)** is a comprehensive C# Window
 
 ## 🖼️ Screenshots
 
-| Welcome | Login | Signup | Admin Dashboard |
-| :---: | :---: | :---: | :---: |
 | ![1](Image/ogmswelcome1.png) | ![2](Image/ogmslogin2.png) | ![3](Image/ogmssingup3.png) | ![4](Image/ogmsadmindashb4.png) |
-| **Manager Dashboard** | **Guest Dashboard** | **User Dashboard** | **Game Library** |
+| :---: | :---: | :---: | :---: |
+| 1 | 2 | 3 | 4 |
 | ![5](Image/ogmsmanagerdashb5.png) | ![6](Image/ogmsgueslogin6.png) | ![7](Image/ogmsuserdashboard7.png) | ![8](Image/ogmsgamelibrary8.png) |
-| **Store 1** | **Store 2** | **Store 3** | **Store 4** |
+| 5 | 6 | 7 | 8 |
 | ![9](Image/ogmsp9.png) | ![10](Image/ogmsp10.png) | ![11](Image/ogmsp11.png) | ![12](Image/ogmsp12.png) |
+| 9 | 10 | 11 | 12 |
 
 ## 📜 Credits & License
 This project was developed as part of the **OOP2 C# Project**.
